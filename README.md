@@ -6,7 +6,7 @@ A chat bot made with the help of dialogflow
 
 
 # Start a normal conversation 
-![](images/Screenshot%from%2019-05-24%14-55-47.png)
+![](images/Screenshot1.png)
 
 # ChatBot Feature included
 ![](images/Screenshot%20(455).png)
