@@ -1,31 +1,12 @@
-# Show_time
+# Chat Bot
 
-A movie booking website
+A chat bot made with the help of dialogflow
 
-# Quick Start
+# Features
 
-clone it and keep it in a python virtualenv
 
-# Install React dependencies
-
-npm install
-
-# Install Python dependencies
-pip install --
-
-django,
-
-djangorestframework,
-
-Pillow,
-
-django-rest-knox,
-
-mysql-connector-python
-
-# Search movies by name 
-# Filter movies by Genre,Language
-![](images/Screenshot%20(446).png)
+# Start a normal conversation 
+![](images/Screenshot%from%2019-05-24%14-55-47.png)
 
 # ChatBot Feature included
 ![](images/Screenshot%20(455).png)
